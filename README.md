@@ -21,8 +21,8 @@ Resolução da Lista de Exercícios I de Programação e Algoritmos, com foco em
 ## Estrutura de Arquivos
 
 ```
-lista01/
-├── lista01.html       # Página principal com todos os exercícios
+index/
+├── index.html       # Página principal com todos os exercícios
 ├── lista01.css        # Estilização (CSS Grid + Flexbox, tema Lakers)
 ├── README.md          # Este arquivo
 └── img/               # Pasta sugerida para os prints do VS Code
@@ -52,15 +52,15 @@ lista01/
 
 ## Como Abrir
 
-1. Baixe os arquivos `lista01.html` e `lista01.css` na **mesma pasta**
-2. Abra o `lista01.html` em qualquer navegador moderno (Chrome, Firefox, Edge)
+1. Baixe os arquivos `index.html` e `lista01.css` na **mesma pasta**
+2. Abra o `index.html` em qualquer navegador moderno (Chrome, Firefox, Edge)
 3. Não é necessário servidor — funciona diretamente como arquivo local
 
 ---
 
 ## Como Inserir os Prints do VS Code
 
-Dentro do `lista01.html`, cada exercício tem uma tag `<img>` esperando o arquivo:
+Dentro do `index.html`, cada exercício tem uma tag `<img>` esperando o arquivo:
 
 ```html
 <div class="screenshot-placeholder">
